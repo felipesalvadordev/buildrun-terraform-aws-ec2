@@ -16,4 +16,4 @@
 - Public and Private KeyPair for SSH
 
 ## Reference
-https://www.youtube.com/watch?v=IBhao06sYek
+https://youtu.be/OV3yhpqvRvo?si=ZVTsatiMW8xsq6bi
